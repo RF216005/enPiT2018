@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: enpiT2018 github Pagesチュートリアル
+description: GitHub Pages演習
+github:
+  is_project_page: false
